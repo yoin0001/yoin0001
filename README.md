@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Figma, JavaScript, HTML, CSS**
 
-- 👯 I’m looking to collaborate on **Create an app using Figma**
+- 👯 I’m looking to collaborate on **creating an app using Figma**
 
 - 📫 How to reach me **henry.yoingco@hotmail.com**
 
